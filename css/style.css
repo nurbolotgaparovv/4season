@@ -1,0 +1,304 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#header {
+    background: linear-gradient(90deg, #72072D 0%, #FF005C 100%);
+    padding: 0 0 40px 0;
+}
+
+.motion {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 45px 0 0 0;
+
+
+}
+
+.input {
+    background: rgba(196, 196, 196, 0.14);
+    border-radius: 16px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.6);
+    width: 670px;
+    height: 43px;
+    padding: 0 0 0 5px;
+    border: none;
+    outline: none;
+
+}
+
+.shop {
+    font-size: 30px;
+    color: #ffffff;
+
+}
+
+.icon21 {
+    color: #FFFFFF;
+    padding: 0 7px 0 0;
+
+}
+
+.color p {
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.color {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    align-items: center;
+}
+
+#hero {
+    padding: 0 0 60px 0;
+    background: url("../img/Rectangle 2256 (1).png");
+}
+
+.hero {
+    display: flex;
+}
+
+.img {
+    left: 0;
+}
+
+.arlen {
+    font-size: 48px;
+    color: #72072D;
+    border-radius: 28px;
+    display: flex;
+    justify-content: center;
+    padding: 70px 0 0 80px;
+}
+
+.search {
+    background: transparent;
+    border-radius: 16px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.6);
+    width: 718px;
+    height: 43px;
+    border: 1px solid #FFFFFF;
+}
+.label{
+    width: 718px;
+    height: 43px;
+    border: 1px;,solid #ffffff;
+}
+
+.cola {
+    color: #FF025C;
+    padding: 40px 0 0 120px;
+}
+
+.cola li {
+    padding: 0 0 25px 0;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FF005C;
+}
+
+.category {
+    font-size: 40px;
+    color: #72072D;
+}
+
+#hero {
+
+}
+
+.img1 {
+    background: url("../img/img 5.png");
+}
+
+.img2 {
+    background: url("../img/img 6.png");
+}
+
+.img3 {
+    background: url("../img/img 7.png");
+}
+
+.img4 {
+    background: url("../img/img 8.png");
+}
+
+.hero-category {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero-category p {
+    font-size: 24px;
+    color: #FFFFFF;
+
+}
+
+.hero-category1 {
+    padding: 0 0 25px 0;
+}
+
+.arrow {
+    color: #ffffff;
+
+    font-size: 35px;
+}
+
+.blockIcon {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 20px;
+    display: flex;
+
+}
+
+
+.hero-row {
+}
+
+.hero-like {
+    font-size: 40px;
+    color: #72072D;
+
+
+}
+
+.hero-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.hero-images div {
+    margin: 30px 0;
+}
+
+
+.momo {
+    font-size: 18px;
+    color: #D118A8;
+    border: 1.5px solid #D118A8;
+    border-radius: 40px;
+    padding: 10px 50px;
+    display: block;
+    margin: 0 auto;
+    background: transparent;
+
+
+}
+
+#footer {
+    background: linear-gradient(269.84deg, #FF005C -10.98%, rgba(0, 0, 0, 0.88) 100%);
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.hero-P {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.hero-P p {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    padding: 5px;
+}
+
+.address {
+    text-align: center;
+}
+
+.heroM p {
+    padding: 5px 0;
+}
+
+.arrows {
+    padding: 0 7px 0 0;
+    color: #FFFFFF;
+    width: 24px;
+    height: 24px;
+}
+
+.gdgfd {
+    width: 1395px;
+    margin: 10px 0 0 0;
+
+    border: 0.5px solid #FFFFFF;
+}
+
+.lolo {
+    font-size: 11px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    padding: 10px 0;
+
+}
+
+.vovo {
+    width: 50px;
+}
+
+.smart {
+    width: 227px;
+    height: 48px;
+    left: 607px;
+    top: 2316px;
+    border: 1.5px solid #D118A8;
+    border-radius: 40px;
+    background: transparent;
+    font-weight: 400;
+    font-size: 18px;
+    color: #D118A8;
+
+}
+
+.heroB{
+    display: flex;
+justify-content: center;
+    padding: 0 0 100px 0;
+    color: #D118A8;
+
+
+}
+
+.sale{
+    display: flex;
+    justify-content: space-between;
+    width: 238px;
+}
+
+.hero-vector{
+    width: 20px;
+    height: 20px;
+}
+
+
+
